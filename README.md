@@ -33,7 +33,7 @@ For more information on the importance of a professional README for your reposit
   <img src="AUR.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>AURORA GIT</b></h3>
+  <h3><b>TINBIT-TECH</b></h3>
 
 </div>
 
@@ -63,11 +63,10 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Wachemo UIniversity Dormitory Managment System] <a name="about-project"></a>
+# 📖README document <a name="about-project"></a>
 
-> This project is a website that simplifies the work of dormitories allowing authorized users to manage it whwther they are in the campus domain or not.
-
-**wachemo dormitory system** is a...
+> This GitHub account was creadet for comertioal activity tha by contactin with diffrent clian and partners
+**TINBIT-TECH** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
