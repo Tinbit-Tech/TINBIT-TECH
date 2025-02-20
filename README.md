@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinbit-tech&label=Profile%20views&color=0e75b6&style=flat" alt="tinbit-tech" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/tinbit_tech]((https://t.me/+FU574b8Zg7kxODI0))
+- 👨‍💻 All of my projects are available at [https://linktr.ee/tinbit_tech](https://t.me/+FU574b8Zg7kxODI0)
 
 - ⚡ Fun fact **I love exploring new technologies!**
 
