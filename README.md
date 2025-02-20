@@ -1,5 +1,5 @@
 <img src="https://github.com/Tinbit-Tech/TINBIT-TECH/blob/main/1_J20ej4fVYltW8HU7skIQ0Q.jpg" width="125%">
-<h1 align="center">Hi 👋, I'm Tinbit Tech</h1>
+<h1 align="center">Hi 👋, I'm Tinbit Tefera</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
