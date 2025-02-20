@@ -1,4 +1,4 @@
-![logo](https://github.com/Tinbit-Tech/Tinbit-Tech/blob/main/Github%20Banner.png)
+![logo](https://github.com/Tinbit-Tech/Tinbit-Tech/blob/main/path/to/1_J20ej4fVYltW8HU7skIQ0Q.jpg)
 <h1 align="center">Hi 👋, I'm Tinbit Tech</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 
