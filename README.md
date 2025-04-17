@@ -12,9 +12,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/tinbit-tefera-338956360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinbit-tech" height="30" width="40" /></a>
-<a href="https://instagram.com/tinbit_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinbit_tech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tinbit_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tinbit_tech" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tinbit-tefera-338956360" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tinbit Tefera LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/tinbit_99" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tinbit_99" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/tinbit_tech" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tinbit_tech YouTube" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
